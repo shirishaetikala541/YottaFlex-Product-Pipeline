@@ -1,0 +1,8 @@
+{
+    "status": "PASS",
+    "input_records": 300000,
+    "output_records": 299797,
+    "rejected_records": 3,
+    "duplicate_records_removed": 200,
+    "difference": 0
+}

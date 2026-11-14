@@ -1,0 +1,7 @@
+product_id,product_name,category,price,stock_quantity,source_supplier,source_file
+A1,Monitor,Electronics,2139,95,supplier_a,supplier_a.csv
+A100,Mobile,Accessories,33622,63,supplier_a,supplier_a.csv
+A1000,Headphones,Electronics,1928,9,supplier_a,supplier_a.csv
+A10000,Mouse,Accessories,12008,69,supplier_a,supplier_a.csv
+B1,Keyboard,Electronics,2500,50,supplier_b,supplier_b.csv
+C1,Laptop,Computers,55000,20,supplier_c,supplier_c.csv
